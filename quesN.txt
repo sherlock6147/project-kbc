@@ -1,0 +1,10 @@
+q number: 14
+question:
+
+Ghatotkach in Mahabharata was the son of
+options:
+a: Duryodhan
+b: Arjuna
+c: Yudhishthir
+d: Bheema
+correct answer: d

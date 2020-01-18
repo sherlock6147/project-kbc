@@ -1,0 +1,10 @@
+q number: 15
+question:
+
+Central Salt and Marine Chemicals Reserch Institute is located at
+options:
+a: Ahmedabad
+b: Bhavnagar
+c: Gandhinagar
+d: Panaji
+correct answer: d

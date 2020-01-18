@@ -1,0 +1,10 @@
+q number: 11
+question:
+
+Which of the following Muslim festival is based on the "holy quran"
+options:
+a: Id-ul-zuha
+b: Id-ul-fitr
+c: bakri-id
+d: moharram
+correct answer: a

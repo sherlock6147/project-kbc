@@ -1,0 +1,10 @@
+q number: 18
+question:
+
+Dogri is spoken in which of the following states
+options:
+a: bihar
+b: orissa
+c: assam
+d: jammu and kashmir
+correct answer: d

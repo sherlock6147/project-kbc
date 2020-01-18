@@ -1,0 +1,10 @@
+q number: 1
+question:
+
+The language of Lakshadweep. a Union Territory of India, is
+options:
+a: tamil
+b: hindi
+c: malayalam
+d: telugu
+correct answer: c

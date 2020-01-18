@@ -1,0 +1,10 @@
+q number: 12
+question:
+
+Van mahotsav was started by 
+options:
+a: maharshi Karve
+b: bal gangadhar tilak
+c: k.m. munshi
+d: sanjay gandhi
+correct answer: c

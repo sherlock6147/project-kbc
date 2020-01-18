@@ -1,0 +1,10 @@
+q number: 17
+question:
+
+Which city of India was first of all affected by plague
+options:
+a: Jaipur
+b: Bombay
+c: Surat
+d: Kanpur
+correct answer: c

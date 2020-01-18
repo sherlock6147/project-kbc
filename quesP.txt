@@ -1,0 +1,10 @@
+q number: 16
+question:
+
+Nandyal is situated in
+options:
+a: Karnataka
+b: Andhra Pradesh
+c: Maharashtra
+d: Telengana
+correct answer: a

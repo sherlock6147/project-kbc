@@ -1,0 +1,10 @@
+q number: 10
+question:
+
+which of the following is a folk dance of india
+options:
+a: kathakali
+b: mohiniattam
+c: garba
+d: bharatnatyam
+correct answer: c

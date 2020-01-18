@@ -1,0 +1,10 @@
+q number: 3
+question:
+
+'Good Friday' is observed to commemorate the event of
+options:
+a: birth of jesus christ
+b: birth of st. peter
+c: crucification of jesus christ
+d: rebirth of jesus christ
+correct answer: c

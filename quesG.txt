@@ -1,0 +1,10 @@
+q number: 7
+question:
+
+What is highest wartime gallantary award in India
+options:
+a: ashok chakra
+b: vir chakra
+c: paramveer chakra
+d: bharat ratna
+correct answer: c

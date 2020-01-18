@@ -1,0 +1,10 @@
+q number: 5
+question:
+
+Which is the only state in India whose capital is named after a person born in the nineteenth century
+options:
+a: chattisgarh
+b: gujrat
+c: kerala
+d: rajasthan
+correct answer: b

@@ -1,0 +1,10 @@
+q number: 4
+question:
+
+Which of these cricket legend made his debut as a commentator in opening match of 2019 cricket world cup
+options:
+a: rahul dravid
+b: ricky pointing
+c: brian lara
+d: sachin tendulkar
+correct answer: d

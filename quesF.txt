@@ -1,0 +1,10 @@
+q number: 6
+question:
+
+Who is "Tapu ke Papa" in the popular TV series "Taarak Mehta Ka Oolta Chashma"
+options:
+a: tarak mehta
+b: jethalal
+c: haathi bhai
+d: champaklal
+correct answer: b

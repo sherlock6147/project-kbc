@@ -1,0 +1,10 @@
+q number: 2
+question:
+
+n India's recent mission to the moon, what was the name of the lander accompanying Chandrayaan 2
+options:
+a: pragyan
+b: vikram
+c: sputnik
+d: aryabhatt
+correct answer: b

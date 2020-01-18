@@ -1,0 +1,10 @@
+q number: 19
+question:
+
+thillana is a format of
+options:
+a: kuchipudi
+b: odissi
+c: bharathatyarn
+d: kathak
+correct answer: c

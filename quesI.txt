@@ -1,0 +1,10 @@
+q number: 9
+question:
+
+Who amomg the following have attended all three round table conferences in London
+options:
+a: b r ambedkar
+b: jawaharlal nehru
+c: mahatma gandhi
+d: mohammad ali jinnah
+correct answer: a

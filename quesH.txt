@@ -1,0 +1,10 @@
+q number: 8
+question:
+
+Deposits of which substance in and around the joints of limbs cause gout
+options:
+a: lactic acid
+b: oxalic acid
+c: carbonic acid
+d: uric acid
+correct answer: d
